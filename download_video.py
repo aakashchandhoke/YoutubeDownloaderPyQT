@@ -3,7 +3,6 @@ from PyQt4 import QtGui, QtCore
 from PyQt4.QtCore import *
 from PyQt4.QtGui import *
 import os
-import threading
  
  
 class YoutubeVideoDownload(QtGui.QMainWindow):
